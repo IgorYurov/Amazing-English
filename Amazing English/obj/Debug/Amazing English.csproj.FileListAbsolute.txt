@@ -1,0 +1,86 @@
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\Amazing English.exe.config
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\Amazing English.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\Amazing English.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Amazing English.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Amazing English.csproj.ResolveComReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form11.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Amazing_English.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Amazing English.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Amazing English.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Amazing English.pdb
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\bin\Debug\Amazing English.exe.config
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\bin\Debug\Amazing English.exe
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\bin\Debug\Amazing English.pdb
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Amazing English.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.ResolveComReference.cache
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form11.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Amazing_English.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Amazing English.exe
+C:\Users\Игорь-ПК\Desktop\Amazing English\Amazing English\obj\Debug\Amazing English.pdb
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\bin\Debug\Amazing English.exe.config
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\bin\Debug\Amazing English.exe
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\bin\Debug\Amazing English.pdb
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Amazing English.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Amazing English.csproj.ResolveComReference.cache
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form11.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Amazing_English.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Amazing English.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Amazing English.exe
+C:\Users\Игорь-ПК\Desktop\Amazing English — копия\Amazing English\obj\Debug\Amazing English.pdb
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.AssemblyReference.cache
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.SuggestedBindingRedirects.cache
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.ResolveComReference.cache
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form1.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form10.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form11.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form2.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form3.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form4.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form5.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form6.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form7.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form8.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Spravochnik.Form9.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing_English.Properties.Resources.resources
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.GenerateResource.cache
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.csproj.CoreCompileInputs.cache
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.exe
+E:\ркрипт пака\Amazing English\Amazing English\obj\Debug\Amazing English.pdb
+E:\ркрипт пака\Amazing English\Amazing English\bin\Debug\dorova.accdb
+E:\ркрипт пака\Amazing English\Amazing English\bin\Debug\Amazing English.exe.config
+E:\ркрипт пака\Amazing English\Amazing English\bin\Debug\Amazing English.exe
+E:\ркрипт пака\Amazing English\Amazing English\bin\Debug\Amazing English.pdb

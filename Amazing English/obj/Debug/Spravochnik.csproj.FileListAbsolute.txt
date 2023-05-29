@@ -1,0 +1,322 @@
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Шарага\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+D:\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+D:\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+D:\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+E:\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+E:\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+E:\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+E:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+D:\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+F:\Остальное\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+F:\Остальное\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+F:\Остальное\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+D:\Остальное\Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+D:\Остальное\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+D:\Остальное\Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+E:\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+E:\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+E:\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+E:\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\юровии\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+E:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+D:\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+D:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+D:\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Хлам\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\rezer\OneDrive\Рабочий стол\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Хлам\Остальное\Курсик\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Хлам\Остальное\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Хлам\Остальное\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Курсик\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Курсачёчек\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+E:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+F:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+H:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+H:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+H:\ПО-42 Юров Курсовая\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Производственная практика\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya)\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik(daya2)\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik(dayatests)\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.Form11.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\dorova.accdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\Spravochnik.exe.config
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\bin\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.csprojResolveAssemblyReference.cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form1.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form10.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form11.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form2.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form3.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form4.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form5.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form6.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form7.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form8.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Form9.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.Properties.Resources.resources
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.csproj.GenerateResource.Cache
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.exe
+C:\Users\Игорь-ПК\Desktop\Spravochnik — копия\Spravochnik\obj\Debug\Spravochnik.pdb
+C:\Users\Игорь-ПК\Desktop\Spravochnik\Spravochnik\obj\Debug\Spravochnik.csproj.ResolveComReference.cache
